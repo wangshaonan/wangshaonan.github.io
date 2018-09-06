@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-## Welcome to my homepage!
-
 I am now a Assistant Researcher at the institute of Automation, Chinese Academy of Sciences, Beijing, China.  In June 2018, I received my PHD degree from the National Laboratory of Pattern Recognition (NLPR), Institute of Automation, Chinese Academy of Sciences (CASIA), supervised by Prof. Chengqing Zong. Prior to this, I received my BS degree from Northeastern University in June 2013.
 
 My research interests are natural language understaning, including textual semantic analysis, representation learning, human language understanding.
