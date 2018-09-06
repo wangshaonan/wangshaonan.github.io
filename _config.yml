@@ -81,7 +81,7 @@ analytics:
 author:
   name             : "Shaonan Wang"
   avatar           : "profile.jpeg"
-  bio              : "Assistant Researcher at CASIA, expert in natural language understanding"
+  bio              : "Assistant Researcher at CASIA, expert in Natural Language Understanding"
   location         : "Beijing, China"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=4UJtgKsAAAAJ"
@@ -93,7 +93,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/wangshaonan/"
+  github           : "wangshaonan"
   google_plus      :
   keybase          :
   instagram        :
