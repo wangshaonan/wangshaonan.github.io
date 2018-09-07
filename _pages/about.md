@@ -14,9 +14,9 @@ My research interests are natural language understaning, including textual seman
 
 # News
 
-Two papers "Associative Multichannel Autoencoder for Multimodal Word Representation" and "Memory, Show the Way: Memory Based Few Shot Word Representation Learning" have been accepted by EMNLP2019!
+- Two papers "Associative Multichannel Autoencoder for Multimodal Word Representation" and "Memory, Show the Way: Memory Based Few Shot Word Representation Learning" have been accepted by EMNLP2019!
 
-(24/5/2018) Successfully defended my PHD thesis "Learning Vector representations for Words, Phrases and Sentences".
+- (24/5/2018) Successfully defended my PHD thesis "Learning Vector representations for Words, Phrases and Sentences".
 
 # Publications
 
