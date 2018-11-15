@@ -14,11 +14,15 @@ My research interests are natural language understanding, including textual sema
 
 # News
 
-- Two papers "Associative Multichannel Autoencoder for Multimodal Word Representation" and "Memory, Show the Way: Memory Based Few Shot Word Representation Learning" have been accepted by EMNLP2019!
+- One paper "Towards Sentence-Level Brain Decoding with Distributed Representations" have been accepted by AAAI2019!
 
 - (24/5/2018) Successfully defended my PHD thesis "Learning Vector representations for Words, Phrases and Sentences".
 
 # Publications
+
+- **Shaonan Wang**, Jiajun Zhang and Chengqing Zong. Associative Multichannel Autoencoder for Multimodal Word Representation. In Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing (EMNLP), Brussels, Belgium, October 31th–November 4th, 2018, pp. 116-124
+
+- Jingyuan Sun, **Shaonan Wang** and Chengqing Zong. Memory, Show the Way: Memory Based Few Shot Word Representation Learning. In Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing (EMNLP), Brussels, Belgium, October 31th–November 4th, 2018, pp. 1435-1444
 
 - **Shaonan Wang**, Jiajun Zhang, Nan Lin and Chengqing Zong. Investigating Inner Properties of Multimodal Representation and Semantic Compositionality with Brain-based Componential Semantics. In Proceedings of the 32nd AAAI Conference on Artificial Intelligence (AAAI-18), New Orleans, Louisiana, USA, February 2-7, 2018, pp. 5964-5972. 
 
