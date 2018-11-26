@@ -10,7 +10,7 @@ redirect_from:
 
 I am now an Assistant Professor at the institute of Automation, Chinese Academy of Sciences, Beijing, China.  In June 2018, I received my PHD degree from the National Laboratory of Pattern Recognition (NLPR), Institute of Automation, Chinese Academy of Sciences (CASIA), supervised by Prof. Chengqing Zong. Prior to this, I received my BS degree from Northeastern University in June 2013.
 
-My research interests are natural language understanding, including textual semantic analysis, representation learning, human language understanding.
+My research interests include Natural Language Processing, Semantic Analysis, Representation Learning, Brain-inspired Models and Cognitive Computing. Currently, my research focuses on 1) combining insights of cognitive psychology to build better natural language understanding models. I am interested in: How to represent language symbols as a form that the computer can understand; How to make the language model learn as efficiently as people; How to evaluate the performance of a computational model. 2) Applying machine learning and NLP methods in studying cognitive neuroscience researches. Specifically, I use computational methods to study human language representation and sequence learning.
 
 # News
 
@@ -39,3 +39,16 @@ My research interests are natural language understanding, including textual sema
 - **Shaonan Wang** and Chengqing Zong. Comparison Study on Critical Components in Composition Model for Phrase Representation, ACM Transactions on Asian Language and Low-Resource Language Information Processing (TALLIP), Vol. 16, No. 3, Article 16, 25 pages, January 2017. 
 
 - **王少楠**，宗成庆. 一种基于双通道LDA模型的汉语词义表示与归纳方法. 计算机学报，2016年8月，第39卷，第8期，第1652-1666页.
+
+
+# Awards and Achievements
+-	2018 Chinese Information Processing Society of China Excellent Doctoral Thesis Award
+-	2018 CAS Presidential Scholarship (Special Prize)
+-	2018 Beijing Outstanding Graduate Student Awards
+-	2018 University of CAS Outstanding Graduate Student Awards
+-	2017 PhD student National Scholarship
+-	2017 CAS Institute of Automation“Rokid”Scholarship
+-	2017 CAS Institute of Automation “Pandeng” Scholarship
+-	2014, 2017 University of CAS Merit Student
+-	2013 Northeastern University Outstanding Graduate Student Awards
+-	2012 Undergraduate National Scholarship
