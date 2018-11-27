@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am now an Assistant Professor at the institute of Automation, Chinese Academy of Sciences, Beijing, China.  In June 2018, I received my PHD degree from the National Laboratory of Pattern Recognition (NLPR), Institute of Automation, Chinese Academy of Sciences (CASIA), supervised by Prof. Chengqing Zong. Prior to this, I received my BS degree from Northeastern University in June 2013.
+I am now an Assistant Professor at the institute of Automation, Chinese Academy of Sciences, Beijing, China.  In June 2018, I received my PhD degree from the National Laboratory of Pattern Recognition (NLPR), Institute of Automation, Chinese Academy of Sciences (CASIA), supervised by Prof. Chengqing Zong. Prior to this, I received my BS degree from Northeastern University in June 2013.
 
 My research interests include Natural Language Processing, Semantic Analysis, Representation Learning, Brain-inspired Models and Cognitive Computing. Currently, my research focuses on 1) combining insights of cognitive psychology to build better natural language understanding models. I am interested in: How to represent language symbols as a form that the computer can understand; How to make the language model learn as efficiently as people; How to evaluate the performance of a computational model. 2) Applying machine learning and NLP methods in studying cognitive neuroscience researches. Specifically, I use computational methods to study human language representation and sequence learning.
 
