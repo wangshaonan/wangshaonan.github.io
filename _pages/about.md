@@ -42,6 +42,7 @@ My research focuses on 1) combining insights of cognitive psychology to build be
 
 
 # Awards and Achievements
+- 2019 Member of Youth Innovation Promotion Association,CAS
 -	2018 Chinese Information Processing Society of China Excellent Doctoral Thesis Award
 -	2018 CAS Presidential Scholarship (Special Prize)
 -	2018 Beijing Outstanding Graduate Student Awards
