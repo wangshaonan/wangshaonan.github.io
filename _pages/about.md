@@ -12,13 +12,14 @@ I am now an Assistant Professor at the institute of Automation, Chinese Academy 
 
 My research focuses on 1) combining insights of cognitive psychology to build better natural language understanding models. I am interested in: how to represent language symbols as a form that the computer can understand; How to make the language model learn as efficiently as people; How to evaluate the performance of a computational model; etc. 2) Applying machine learning and NLP methods in studying cognitive neuroscience researches. Currently, I use computational methods to study human language representation and sequence learning. I am interested in: how human represent and store semantic concepts; how human combine words to form more complex meaning of sentences; How can human learn and generalize from few examples; etc.
 
-# News
-
-- One paper "Towards Sentence-Level Brain Decoding with Distributed Representations" have been accepted by AAAI2019!
-
-- (24/5/2018) Successfully defended my PHD thesis "Learning Vector representations for Words, Phrases and Sentences".
 
 # Publications
+
+- **Shaonan Wang**, Jiajun Zhang, Haiyan Wang, Nan Lin and Chengqing Zong. Fine-grained Neural Decoding with Distributed Word Representations. Information Sciences, 507 (2020) 256–272
+
+- Kexin Wang, Yu Zhou, **Shaonan Wang**, Jiajun Zhang and Chengqing Zong. Understanding Memory Modules on Learning Simple Algorithms. In Proceedings of the IJCAI-19 Workshop on Explainable Artificial Intelligence (XAI), Macao, China, August 10-16, 2019, pp.5471-5477
+
+- Jingyuan Sun, **Shaonan Wang**, Jiajun Zhang and Chengqing Zong. Towards Sentence-Level Brain Decoding with Distributed Representations. In Proceedings of the 33rd AAAI Conference on Artificial Intelligence (AAAI), Honolulu, Hawaii, USA, January 27th – February 1st, 2019,Vol. 33,  pp. 7047-7054
 
 - **Shaonan Wang**, Jiajun Zhang and Chengqing Zong. Associative Multichannel Autoencoder for Multimodal Word Representation. In Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing (EMNLP), Brussels, Belgium, October 31th–November 4th, 2018, pp. 116-124
 
@@ -42,6 +43,7 @@ My research focuses on 1) combining insights of cognitive psychology to build be
 
 
 # Awards and Achievements
+- 2019 Chinese Academy of Sciences Excellent Doctoral Thesis Award
 - 2019 Member of Youth Innovation Promotion Association,CAS
 -	2018 Chinese Information Processing Society of China Excellent Doctoral Thesis Award
 -	2018 CAS Presidential Scholarship (Special Prize)
