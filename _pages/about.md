@@ -15,7 +15,7 @@ My research focuses on 1) combining insights of cognitive psychology to build be
 
 # Publications
 
-- **Shaonan Wang**, Jiajun Zhang, Nan Lin and Chengqing Zong. Probing Brain Activation Patterns by Dissociating Semantics and Syntax in Sentences. The Thirty-Fourth AAAI Conference on Artificial Intelligence（AAAI）, New York, USA, Feb. 7-12, 2020.
+- **Shaonan Wang**, Jiajun Zhang, Nan Lin and Chengqing Zong. Probing Brain Activation Patterns by Dissociating Semantics and Syntax in Sentences. The Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI), New York, USA, Feb. 7-12, 2020.
 
 - **Shaonan Wang**, Jiajun Zhang, Haiyan Wang, Nan Lin and Chengqing Zong. Fine-grained Neural Decoding with Distributed Word Representations. Information Sciences, 507 (2020) 256–272
 
