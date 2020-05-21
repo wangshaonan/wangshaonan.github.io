@@ -15,6 +15,8 @@ My research focuses on 1) combining insights of cognitive psychology to build be
 
 # Publications
 
+- **Shaonan Wang**, Jiajun Zhang, Nan Lin and Chengqing Zong. Probing Brain Activation Patterns by Dissociating Semantics and Syntax in Sentences. The Thirty-Fourth AAAI Conference on Artificial Intelligence（AAAI）, New York, USA, Feb. 7-12, 2020.
+
 - **Shaonan Wang**, Jiajun Zhang, Haiyan Wang, Nan Lin and Chengqing Zong. Fine-grained Neural Decoding with Distributed Word Representations. Information Sciences, 507 (2020) 256–272
 
 - Kexin Wang, Yu Zhou, **Shaonan Wang**, Jiajun Zhang and Chengqing Zong. Understanding Memory Modules on Learning Simple Algorithms. In Proceedings of the IJCAI-19 Workshop on Explainable Artificial Intelligence (XAI), Macao, China, August 10-16, 2019, pp.5471-5477
@@ -31,8 +33,6 @@ My research focuses on 1) combining insights of cognitive psychology to build be
 
 - **Shaonan Wang**, Jiajun Zhang and Chengqing Zong. Empirical Exploring Word-Character Relationship for Chinese Sentence Representation, ACM Transactions on Asian Language and Low-Resource Language Information Processing (TALLIP), Vol. 17, No. 3, Article 14, 18 pages, January 2018.
 
-- Nan Lin, Xiaohong Yang, Jing Li, **Shaonan Wang**, Huimin Hua, Junyun Ma, Xingshan Li. (2018).Neural correlates of three cognitive processes involved in theory of mind and discourse comprehension.COGNITIVE AFFECTIVE & BEHAVIORAL NEUROSCIENCE,18(2),273-283.
-
 - **Shaonan Wang**, Jiajun Zhang and Chengqing Zong. Exploiting Word Internal Structures for Generic Chinese Sentence Representation.  In Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing (EMNLP-17), Copenhagen, Denmark, September 9-11, 2017, pp. 298-303.
 
 - **Shaonan Wang**, Jiajun Zhang and Chengqing Zong. Learning Sentence Representation with Guidance of Human Attention.  In Proceedings of the 26th International Joint Conference on Artificial Intelligence (IJCAI-17), Melbourne, Australia, August 19-25, 2017, pp. 4137-4143. 
@@ -43,6 +43,7 @@ My research focuses on 1) combining insights of cognitive psychology to build be
 
 
 # Awards and Achievements
+- 2020 Scholarship by the China Scholarship Council
 - 2019 Chinese Academy of Sciences Excellent Doctoral Thesis Award
 - 2019 Member of Youth Innovation Promotion Association,CAS
 -	2018 Chinese Information Processing Society of China Excellent Doctoral Thesis Award
