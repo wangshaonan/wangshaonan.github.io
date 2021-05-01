@@ -10,7 +10,7 @@ locale                   : "China"
 title                    : "Shaonan Wang"
 title_separator          : "-"
 name                     : &name "Shaonan Wang"
-description              : &description "Assistant Researcher at CASIA"
+description              : &description "Associate Researcher at CASIA"
 url                      : https://wangshaonan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "wangshaonan.github.io"
@@ -81,7 +81,7 @@ analytics:
 author:
   name             : "Shaonan Wang"
   avatar           : "profile.jpg"
-  bio              : "Assistant Researcher at CASIA, expert in Natural Language Understanding."
+  bio              : "Associate Researcher at CASIA, expert in Natural Language Understanding."
   location         : "Beijing, China"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=4UJtgKsAAAAJ"
