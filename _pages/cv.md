@@ -16,4 +16,5 @@ Education
 
 Work experience
 ======
-2018.07-Now, Assistant researcher at the Institute of Automation, Chinese Academy of Sciences
+2018.07-2020.11, Assistant researcher at the Institute of Automation, Chinese Academy of Sciences
+2020.11-Now, Associate Professor at the Institute of Automation, Chinese Academy of Sciences
