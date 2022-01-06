@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am now an Associate Professor at the institute of Automation, Chinese Academy of Sciences, Beijing, China.  In June 2018, I received my PhD degree from the National Laboratory of Pattern Recognition (NLPR), Institute of Automation, Chinese Academy of Sciences (CASIA), supervised by Prof. Chengqing Zong. Prior to this, I received my BS degree from Northeastern University in June 2013.
+I am now a postdoc researcher at the Neuroscience of Language Lab (NelLLab) at NYU working with Prof. Liina Pylkkänen. Meanwhile, I am an Associate Professor at the institute of Automation, Chinese Academy of Sciences, Beijing, China. In June 2018, I received my PhD degree from the National Laboratory of Pattern Recognition (NLPR), Institute of Automation, Chinese Academy of Sciences (CASIA), supervised by Prof. Chengqing Zong. Prior to this, I received my BS degree from Northeastern University in June 2013.
 
 My research focuses on 1) combining insights of cognitive psychology to build better natural language understanding models. I am interested in: how to represent the meaning of language symbols, such as words phrases and sentences; How to make the language model learn as efficiently as people; How to evaluate the performance of a computational model; etc. 2) Applying computational linguistic methods in studying psycholinguistics and cognitive neuroscience researches. Currently, I use computational methods to study human language representation and sequence learning. I am interested in: how human represent and store semantic concepts; how human combine words to form more complex meaning of sentences; How can human learn and generalize from few examples; etc.
 
