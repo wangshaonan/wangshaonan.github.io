@@ -14,6 +14,13 @@ My research focuses on 1) combining insights of cognitive psychology to build be
 
 
 # Publications
+- 王少楠，丁鼐，林楠，张家俊，宗成庆. 语言认知与语言计算--人与机器的语言理解.中国科学：信息科学. 2022.
+
+- Xiaohan Zhang, **Shaonan Wang**, Nan Lin, Jiajun Zhang and Chengqing Zong. Probing Word Syntactic Representations in the Brain by a Feature Elimination Method. AAAI-2022
+
+- **Shaonan Wang**, Bingyu Liu. Multiple Sequential Learning Tasks Represented in Recurrent Neural Networks. NeurIPS 2021 AI for Science Workshop. Online. Dec 13, 2021.
+
+- Shuxian Zou, **Shaonan Wang**, Jiiajun Zhang, Chengqing Zong. Towards Brain-to-Text Generation: Neural Decoding with Pre-trained Encoder-Decoder Models. NeurIPS 2021 AI for Science Workshop. Online. Dec 13, 2021. 
 
 - **Shaonan Wang**, Jingyuan Sun, Jiajun Zhang and Chengqing Zong. Neural Encoding and Decoding with Distributed Sentence Representations, IEEE Transactions on Neural Networks and Learning Systems, Vol.32, No.2, pp.589-603, 2021.
 
