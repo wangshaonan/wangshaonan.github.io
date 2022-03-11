@@ -14,7 +14,11 @@ My research focuses on 1) combining insights of cognitive psychology to build be
 
 
 # Publications
-- 王少楠，丁鼐，林楠，张家俊，宗成庆. 语言认知与语言计算--人与机器的语言理解.中国科学：信息科学. 2022.
+- Shuxian Zou, **Shaonan Wang**, Jiiajun Zhang, Chengqing Zong. Cross-Modal Cloze Task: A New Task to Brain-to-Word Decoding. ACL-2022  Findings.
+
+- 王少楠, 张家俊, 宗成庆. 基于语言计算方法的语言认知实验综述. 中文信息学报. 2022.
+
+- 王少楠, 丁鼐, 林楠, 张家俊, 宗成庆. 语言认知与语言计算--人与机器的语言理解. 中国科学：信息科学. 2022.
 
 - Xiaohan Zhang, **Shaonan Wang**, Nan Lin, Jiajun Zhang and Chengqing Zong. Probing Word Syntactic Representations in the Brain by a Feature Elimination Method. AAAI-2022
 
@@ -28,7 +32,7 @@ My research focuses on 1) combining insights of cognitive psychology to build be
 
 - **Shaonan Wang**, Jiajun Zhang, Haiyan Wang, Nan Lin and Chengqing Zong. Fine-grained Neural Decoding with Distributed Word Representations. Information Sciences, 507 (2020) 256–272
 
-- Jingyuan Sun, **Shaonan Wang**, Jiajun Zhang, and Chengqing Zong. Distill and Replay for Continual Language Learning.The 28th International Conference on Computational Linguistics(COLING 2020), Online, December 8-13, 2020, pp. 3569-3579
+- Jingyuan Sun, **Shaonan Wang**, Jiajun Zhang, and Chengqing Zong. Distill and Replay for Continual Language Learning. In Proceedings of the 28th International Conference on Computational Linguistics(COLING 2020), Online, December 8-13, 2020, pp. 3569-3579
 
 - Lin N, Xu Y, Yang H, **Wang, S.**, et al. Dissociating the neural correlates of the sociality and plausibility effects in simple conceptual combination. Brain Structure and Function, 2020, 225(3): 995-1008.  
 
