@@ -64,6 +64,7 @@ My research focuses on 1) combining insights of cognitive psychology to build be
 
 
 # Awards and Achievements
+- 2021 China Association for Science and Technology Young Talent Support Project
 - 2020 Scholarship by the China Scholarship Council
 - 2019 Chinese Academy of Sciences Excellent Doctoral Thesis Award
 - 2019 Member of Youth Innovation Promotion Association,CAS
