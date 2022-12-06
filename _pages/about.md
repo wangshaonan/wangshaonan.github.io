@@ -14,6 +14,13 @@ My research focuses on 1) combining insights of cognitive psychology to build be
 
 
 # Publications
+
+- **Shaonan Wang**, Yunhao Zhang, Xiaohan Zhang, Jingyuan Sun, Nan Lin, Jiajun Zhang, Chengqing Zong. An fmri dataset for concept representation with semantic feature annotations. Scientific data. 2022.
+
+- **Shaonan Wang**, Xiaohan Zhang, Jiajun Zhang, Chengqing Zong. A synchronized multimodal neuroimaging dataset for studying brain language processing. Scientific data. 2022.
+
+- Xiaohan Zhang, **Shaonan Wang**, Chengqing Zong. How Does the Experimental Setting Affect the Conclusions of Neural Encoding Models? LREC-2022.
+
 - Shuxian Zou, **Shaonan Wang**, Jiiajun Zhang, Chengqing Zong. Cross-Modal Cloze Task: A New Task to Brain-to-Word Decoding. ACL-2022  Findings.
 
 - 王少楠, 张家俊, 宗成庆. 基于语言计算方法的语言认知实验综述. 中文信息学报. 2022.
