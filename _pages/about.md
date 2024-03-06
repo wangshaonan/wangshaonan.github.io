@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am now a postdoc researcher at the Neuroscience of Language Lab (NelLLab) at NYU working with Prof. Liina Pylkkänen. Meanwhile, I am an Associate Professor at the Institute of Automation, Chinese Academy of Sciences, Beijing, China. In June 2018, I received my PhD degree from the National Laboratory of Pattern Recognition (NLPR), Institute of Automation, Chinese Academy of Sciences (CASIA), supervised by Prof. Chengqing Zong. Before this, I received my BS degree from Northeastern University in June 2013.
+I am an Associate Professor at the Institute of Automation, Chinese Academy of Sciences, Beijing, China. I have been working as a Research Associate at the Neuroscience of Language Lab (NelLLab) at NYU working with Prof. Liina Pylkkänen since 2021. In June 2018, I received my PhD degree from the National Laboratory of Pattern Recognition (NLPR), Institute of Automation, Chinese Academy of Sciences (CASIA), supervised by Prof. Chengqing Zong. Before this, I received my BS degree from Northeastern University in June 2013.
 
 My research focuses on 1) combining insights of cognitive psychology to build better natural language understanding models. I am interested in how to represent the meaning of language symbols, such as words phrases, and sentences; How to make the language model learn as efficiently as people; How to evaluate the performance of a computational model; etc. 2) Applying computational linguistic methods in studying psycholinguistics and cognitive neuroscience researches. Currently, I use computational methods to study human language representation and sequence learning. I am interested in how humans represent and store semantic concepts; how humans combine words to form more complex meanings of sentences; How humans learn and generalize from few examples; etc.
 
@@ -21,7 +21,7 @@ My research focuses on 1) combining insights of cognitive psychology to build be
   
 - Sun, Jingyuan, Mingxiao Li, Zijiao Chen, Yunhao Zhang, **Shaonan Wang**, and Marie-Francine Moens. Contrast, attend and diffuse to decode high-resolution images from brain activities. Advances in Neural Information Processing Systems 36 (2024).
   
-- Zhang, Yunhao, Chong Li, Xiaohan Zhang, Xinyi Dong, and Shaonan Wang. A Comprehensive Neural and Behavioral Task Taxonomy Method for Transfer Learning in NLP. In Findings of the Association for Computational Linguistics: IJCNLP-AACL 2023
+-Zhang, Yunhao, Chong Li, Xiaohan Zhang, Xinyi Dong, and Shaonan Wang. A Comprehensive Neural and Behavioral Task Taxonomy Method for Transfer Learning in NLP. In Findings of the Association for Computational Linguistics: IJCNLP-AACL 2023
 (Findings), pp. 233-241. 2023.
 
 - Li Chong, Shaonan Wang, Yunhao Zhang, Jiajun Zhang, and Chengqing Zong. Interpreting and Exploiting Functional Specialization in Multi-Head Attention under Multi-task Learning. In Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing, pp. 16460-16476. 2023.
