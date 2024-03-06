@@ -21,7 +21,7 @@ My research focuses on 1) combining insights of cognitive psychology to build be
   
 - Sun, Jingyuan, Mingxiao Li, Zijiao Chen, Yunhao Zhang, **Shaonan Wang**, and Marie-Francine Moens. Contrast, attend and diffuse to decode high-resolution images from brain activities. Advances in Neural Information Processing Systems 36 (2024).
   
--Zhang, Yunhao, Chong Li, Xiaohan Zhang, Xinyi Dong, and Shaonan Wang. A Comprehensive Neural and Behavioral Task Taxonomy Method for Transfer Learning in NLP. In Findings of the Association for Computational Linguistics: IJCNLP-AACL 2023
+- Zhang, Yunhao, Chong Li, Xiaohan Zhang, Xinyi Dong, and Shaonan Wang. A Comprehensive Neural and Behavioral Task Taxonomy Method for Transfer Learning in NLP. In Findings of the Association for Computational Linguistics: IJCNLP-AACL 2023
 (Findings), pp. 233-241. 2023.
 
 - Li Chong, Shaonan Wang, Yunhao Zhang, Jiajun Zhang, and Chengqing Zong. Interpreting and Exploiting Functional Specialization in Multi-Head Attention under Multi-task Learning. In Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing, pp. 16460-16476. 2023.
