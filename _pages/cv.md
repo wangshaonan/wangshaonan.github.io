@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-[[CV]](/files/ShaonanWang_CV.pdf)
+[[CV]](/files/CV_ShaonanWang-2024.3.4.pdf)
