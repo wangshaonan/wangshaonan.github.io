@@ -6,6 +6,7 @@ author_profile: true
 
 ### Language and Brain Data Processing (UCAS)
 Undergraduate course, Instructor, Summer 2024
+
 [Course website](https://wangshaonan.github.io/Computational-Linguistics-for-Brain-Encoding-and-Decoding/docs/schedule.html) 
 
 ### Deep learning (Neuromatch Academy)
