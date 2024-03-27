@@ -1,4 +1,4 @@
-![image](https://github.com/wangshaonan/wangshaonan.github.io/assets/15168394/a61cbbb4-d0c3-4fa0-90c9-1171f205615f)---
+---
 permalink: /
 title: "About me"
 excerpt: "About me"
