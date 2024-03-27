@@ -1,4 +1,4 @@
----
+![image](https://github.com/wangshaonan/wangshaonan.github.io/assets/15168394/a61cbbb4-d0c3-4fa0-90c9-1171f205615f)---
 permalink: /
 title: "About me"
 excerpt: "About me"
@@ -15,20 +15,24 @@ My research focuses on 1) combining insights of cognitive psychology to build be
 
 # Publications
 
-- Lin, Nan, Xiaohan Zhang, Xiuyi Wang, and **Shaonan Wang**. The organization of the semantic network as reflected by the neural correlates of six semantic dimensions. Brain and Language 250 (2024): 105388.
+- Chong Li,  **Shaonan Wang**, Jiajun Zhang, Chengqing Zong. Improving In-context Learning of Multilingual Generative Language Models with Cross-lingual Alignment. NAACL-2024.
 
-- Amilleah Rodriguez, **Shaonan Wang**, Liina Pylkkanen. Do Language Models Compose Concepts the Way Humans Can? LREC-Coling 2024. Accepted.
+- Xinpei Zhao, Jingyuan Sun, **Shaonan Wang**, Jing Ye, Xiaohan Zhang, Chengqing Zong. MapGuide: A Simple yet Effective Method to Reconstruct Continuous Language from Brain Activities. NAACL-2024.
+
+- Nan Lin, Xiaohan Zhang, Xiuyi Wang, and **Shaonan Wang**. The organization of the semantic network as reflected by the neural correlates of six semantic dimensions. Brain and Language 250 (2024): 105388.
+
+- Amilleah Rodriguez, **Shaonan Wang**, Liina Pylkkanen. Do Language Models Compose Concepts the Way Humans Can? LREC-Coling 2024.
   
-- Sun, Jingyuan, Mingxiao Li, Zijiao Chen, Yunhao Zhang, **Shaonan Wang**, and Marie-Francine Moens. Contrast, attend and diffuse to decode high-resolution images from brain activities. Advances in Neural Information Processing Systems 36 (2024).
+- Jingyuan Sun, Mingxiao Li, Zijiao Chen, Yunhao Zhang, **Shaonan Wang**, and Marie-Francine Moens. Contrast, attend and diffuse to decode high-resolution images from brain activities. Advances in Neural Information Processing Systems 36 (2024).
   
-- Zhang, Yunhao, Chong Li, Xiaohan Zhang, Xinyi Dong, and **Shaonan Wang**. A Comprehensive Neural and Behavioral Task Taxonomy Method for Transfer Learning in NLP. In Findings of the Association for Computational Linguistics: IJCNLP-AACL 2023
+- Yunhao Zhang, Chong Li, Xiaohan Zhang, Xinyi Dong, and **Shaonan Wang**. A Comprehensive Neural and Behavioral Task Taxonomy Method for Transfer Learning in NLP. In Findings of the Association for Computational Linguistics: IJCNLP-AACL 2023
 (Findings), pp. 233-241. 2023.
 
-- Li Chong, **Shaonan Wang**, Yunhao Zhang, Jiajun Zhang, and Chengqing Zong. Interpreting and Exploiting Functional Specialization in Multi-Head Attention under Multi-task Learning. In Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing, pp. 16460-16476. 2023.
+- Chong Li, **Shaonan Wang**, Yunhao Zhang, Jiajun Zhang, and Chengqing Zong. Interpreting and Exploiting Functional Specialization in Multi-Head Attention under Multi-task Learning. In Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing, pp. 16460-16476. 2023.
 
-- Lee, Soo-Hwan, and **Shaonan Wang**. Do language models know how to be polite?. Proceedings of the Society for Computation in Linguistics 6, no. 1 (2023): 375-378.
+- Soo-Hwan Lee, and **Shaonan Wang**. Do language models know how to be polite?. Proceedings of the Society for Computation in Linguistics 6, no. 1 (2023): 375-378.
 
-- Li, Yupeng, Haorui He, **Shaonan Wang**, Francis CMLau, and Yunya Song."Improved target-specific stance detection on social media platforms by delving into conversation threads." IEEE Transactions on Computational Social Systems (2023).
+- Yupeng Li, Haorui He, **Shaonan Wang**, Francis CMLau, and Yunya Song."Improved target-specific stance detection on social media platforms by delving into conversation threads." IEEE Transactions on Computational Social Systems (2023).
 
 - **Shaonan Wang**, Yunhao Zhang, Shiwei Ting, Guangyao Zhang, Jiajun Zhang, Nan Lin, Chengqing Zong. A large dataset of semantic ratings and its computational extension. (2023). Scientific Data, 10(1), 106.
 
@@ -92,7 +96,8 @@ My research focuses on 1) combining insights of cognitive psychology to build be
 - Natural language processing. UCAS. 2020-2021. Teaching assistant.
   
 # Invited talks
-- EMNLP 2024 Tutorial. Computational Linguistics for Brain Encoding and Decoding: Principles, Practices and Beyond
+- ACL 2024 Tutorial. [Computational Linguistics for Brain Encoding and Decoding: Principles, Practices and Beyond](https://2024.aclweb.org/program/tutorials/)
+- Toward a comprehensive study of human and machine language understanding. [AIBED: Artificial intelligence for brain encoding and decoding](https://sites.google.com/view/aibed2024/home). Mar 24. 2024.
 - Neural encoding and decoding with textual representations. Neuroimaging Methods Workshop. December 10, 2022.
 - Combining cutting-edge artificial intelligence and neuroscience research, language learning, and ancient poetry
 appreciation. ISLSEAI-2022. October 29, 2022.
