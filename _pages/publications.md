@@ -43,6 +43,8 @@ You can find a full list of my articles and preprints on <ins>[my Google Scholar
 - **王少楠**，宗成庆. 一种基于双通道LDA模型的汉语词义表示与归纳方法. 计算机学报，2016年8月，第39卷，第8期，第1652-1666页.
   
 ### Peer-reviewed Conference Proceedings
+- Chong Li, Wen Yang, Jia jun Zhang, Jinliang Lu, **Shaonan Wang**, and Chengqing Zong."X-Instruction: Aligning Language Model in Low-resource Languages with Self-curated Cross-lingual Instructions." ACL-2024 Findings.
+
 - Chong Li,  **Shaonan Wang**, Jiajun Zhang, Chengqing Zong. Improving In-context Learning of Multilingual Generative Language Models with Cross-lingual Alignment. NAACL-2024.
 
 - Xinpei Zhao, Jingyuan Sun, **Shaonan Wang**, Jing Ye, Xiaohan Zhang, Chengqing Zong. MapGuide: A Simple yet Effective Method to Reconstruct Continuous Language from Brain Activities. NAACL-2024.
