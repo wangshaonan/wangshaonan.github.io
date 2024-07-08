@@ -4,8 +4,8 @@ permalink: /talks/
 author_profile: true
 ---
 - How Do Transformers Integrate Meanings? An Investigation Using Interpretable Brain-Based Componential Semantics in Two-Word Phrases. [HBAI-IJCAI 2024 workshop](https://hbai2024.github.io/)
-- IJCAI 2024 Tutorial. [Deep Learning for Brain Encoding and Decoding: Principles, Practices and Beyond](https://ijcai24.org/tutorials/)
-- ACL 2024 Tutorial. [Computational Linguistics for Brain Encoding and Decoding: Principles, Practices and Beyond](https://2024.aclweb.org/program/tutorials/)
+- Deep Learning for Brain Encoding and Decoding: Principles, Practices and Beyond. [IJCAI 2024 Tutorial](https://ijcai24.org/tutorials/). 
+- Computational Linguistics for Brain Encoding and Decoding: Principles, Practices and Beyond. [ACL 2024 Tutorial](https://2024.aclweb.org/program/tutorials/). 
 - Toward a comprehensive study of human and machine language understanding. [AIBED: Artificial intelligence for brain encoding and decoding](https://sites.google.com/view/aibed2024/home). Mar 24. 2024.
 - Neural encoding and decoding with textual representations. Neuroimaging Methods Workshop. December 10, 2022.
 - Combining cutting-edge artificial intelligence and neuroscience research, language learning, and ancient poetry
