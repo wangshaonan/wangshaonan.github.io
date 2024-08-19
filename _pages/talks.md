@@ -3,12 +3,12 @@ title: "Talks and presentations"
 permalink: /talks/
 author_profile: true
 ---
-- Computational Linguistics for Brain Encoding and Decoding: Principles, Practices and Beyond. [ACL 2024 Tutorial](https://2024.aclweb.org/program/tutorials/) with [Slides-50min](https://drive.google.com/file/d/1gcJDCklWaV29tSXZ5x4TpVDWoqCc-rTm/view?usp=sharing)
-- Deep Learning for Brain Encoding and Decoding: Principles, Practices and Beyond. [IJCAI 2024 Tutorial](https://ijcai24.org/tutorials/) with [Slides-90min](https://drive.google.com/file/d/1wpaz9ivZF2DxtjMsdSwdccIHxcZEkCN-/view?usp=sharing)
-- How Do Transformers Integrate Meanings? An Investigation Using Interpretable Brain-Based Componential Semantics in Two-Word Phrases. [HBAI-IJCAI 2024 workshop](https://hbai2024.github.io/)
-- Word Representation and Combinatorial Processing in Language Understanding for Machines and Humans. [cityUHK LT Research Forum Series](https://lt.cityu.edu.hk/Research/cred/LT-Research-Forum-Series/event/?vSubFID=1&Topic_ID=2186)
+- Computational Linguistics for Brain Encoding and Decoding: Principles, Practices and Beyond. [ACL 2024 Tutorial](https://2024.aclweb.org/program/tutorials/) with [Slides-50min](https://drive.google.com/file/d/1gcJDCklWaV29tSXZ5x4TpVDWoqCc-rTm/view?usp=sharing). Aug 11, 2024.
+- Deep Learning for Brain Encoding and Decoding: Principles, Practices and Beyond. [IJCAI 2024 Tutorial](https://ijcai24.org/tutorials/) with [Slides-90min](https://drive.google.com/file/d/1wpaz9ivZF2DxtjMsdSwdccIHxcZEkCN-/view?usp=sharing). Aug 3, 2024.
+- How Do Transformers Integrate Meanings? An Investigation Using Interpretable Brain-Based Componential Semantics in Two-Word Phrases. [HBAI-IJCAI 2024 workshop](https://hbai2024.github.io/). Aug 3, 2024.
+- Word Representation and Combinatorial Processing in Language Understanding for Machines and Humans. [cityUHK LT Research Forum Series](https://lt.cityu.edu.hk/Research/cred/LT-Research-Forum-Series/event/?vSubFID=1&Topic_ID=2186). May 6. 2024.
 - Toward a comprehensive study of human and machine language understanding. [AIBED: Artificial intelligence for brain encoding and decoding](https://sites.google.com/view/aibed2024/home). Mar 24. 2024.
-- Neural encoding and decoding with textual representations. Neuroimaging Methods Workshop. December 10, 2022.
+- Neural encoding and decoding with textual representations. [Neuroimaging Methods Workshop](https://research.class.cityu.edu.hk/wp-content/uploads/2022/11/neuroimaging_methods_workshop.pdf) with [code](https://github.com/wangshaonan/fMRI-encoding-with-textual-representations). December 10, 2022.
 - Combining cutting-edge artificial intelligence and neuroscience research, language learning, and ancient poetry
 appreciation. ISLSEAI-2022. October 29, 2022.
 - Human and Machine language understanding. YSSNLP-2022. May 28, 2022.
