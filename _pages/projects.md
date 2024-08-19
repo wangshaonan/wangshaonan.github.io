@@ -4,10 +4,6 @@ permalink: /projects/
 author_profile: true
 ---
 
-test
-
-# My Projects
-
 <style>
 .project-box {
     border: 2px solid #ddd;
