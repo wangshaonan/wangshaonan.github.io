@@ -16,7 +16,8 @@ author_profile: true
 }
 
 .project-box img {
-    max-width: 150px;
+    max-width: 200px; /* Adjust as needed */
+    max-height: 200px; /* Adjust as needed */
     border-radius: 10px;
     margin-right: 20px;
 }
