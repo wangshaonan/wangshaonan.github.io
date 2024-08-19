@@ -36,7 +36,7 @@ author_profile: true
 </style>
 
 <div class="project-box">
-    <img src="https://github.com/wangshaonan/wangshaonan.github.io/blob/master/projects/compfunc.png" alt="Project Image">
+    <img src="https://raw.githubusercontent.com/wangshaonan/wangshaonan.github.io/blob/master/projects/compfunc.png" alt="Project Image">
     <div class="content">
         <h3>Project Title 1</h3>
         <p>Short description of the project. This project is about...</p>
