@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/c5a59638-b2e0-4c54-8d41-6a82e4314acb)---
 title: "Research"
 permalink: /research/
 author_profile: true
@@ -36,6 +36,14 @@ author_profile: true
 </style>
 
 <div class="project-box">
+    <img src="https://raw.githubusercontent.com/wangshaonan/wangshaonan.github.io/master/research/neuralde.png" alt="Project Image">
+    <div class="content">
+        <h3>Toward coherent text generation from brain activations</h3>
+        <p>The primary goal of fMRI decoding is to create a correlation between brain activity and stimuli, a crucial step toward developing brain-computer interface systems. Yet, traditional fMRI decoding frameworks face significant challenges: they lack the capability to directly predict words from a vocabulary and to produce coherent text. To address these questions, we proposed employing pre-trained language models to assist in generating fluent and coherent text directly from brain activity. In line with this approach, we introduce the cross-modal cloze task, along with the brain-to-text and fMRI2text tasks. </p>
+    </div>
+</div>
+
+<div class="project-box">
     <img src="https://raw.githubusercontent.com/wangshaonan/wangshaonan.github.io/master/research/compfunc.png" alt="Project Image">
     <div class="content">
         <h3>Phrasal composition mechanism of human</h3>
@@ -56,5 +64,13 @@ author_profile: true
     <div class="content">
         <h3>Semantic representation of words in our brain</h3>
         <p>Multiple sensory-motor and non-sensory-motor dimensions have been proposed for semantic representation, but it remains unclear how the semantic system is organized along them in the human brain. Using naturalistic fMRI data and large-scale semantic ratings, we investigated the overlaps and dissociations between the neural correlates of six semantic dimensions: vision, motor, socialness, emotion, space, and time. Our findings revealed a more complex semantic atlas than what is predicted by current neurobiological models of semantic representation.</p>
+    </div>
+</div>
+
+<div class="project-box">
+    <img src="https://raw.githubusercontent.com/wangshaonan/wangshaonan.github.io/master/research/repl.png" alt="Project Image">
+    <div class="content">
+        <h3>Representation learning of words, phrases, and sentences</h3>
+        <p>Learning appropriate representations for words, phrases, and sentences is crucial for enabling machines to understand language. During my PhD thesis, I developed several algorithms to enhance multimodal word representations, compositional phrase representations, and sentence representations, guided by human attention.</p>
     </div>
 </div>
