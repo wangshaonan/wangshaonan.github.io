@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/8d207b5b-121a-43ad-99db-c337abde651f)---
+---
 title: "Research"
 permalink: /research/
 author_profile: true
