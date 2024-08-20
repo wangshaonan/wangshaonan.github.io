@@ -38,8 +38,8 @@ author_profile: true
 <div class="project-box">
     <img src="https://raw.githubusercontent.com/wangshaonan/wangshaonan.github.io/master/projects/compfunc.png" alt="Project Image">
     <div class="content">
-        <h3>Project Title 1</h3>
-        <p>Short description of the project. This project is about...</p>
+        <h3>Phrasal composition mechanism of human</h3>
+        <p> Understanding the computational operations involved in conceptual composition is fundamental for theories of language. However, the existing literature on this topic remains fragmented, comprising disconnected theories from various fields. For instance, while formal semantic theories in Linguistics rely on type-driven interpretation without explicitly representing the conceptual content of lexical items, neurolinguistic research suggests that the brain is sensitive to conceptual factors during word composition. What is the relationship between these two types of theories? Do they describe two distinct aspects of composition, operating independently, or do they connect in some way during interpretation by our brain? To probe this, we explored how the mathematical operations explaining the combination of two words into a phrase are affected by the semantic content of items and the formal linguistic relations between the combining items. </p>
     </div>
 </div>
 
