@@ -8,6 +8,27 @@ redirect_from:
   - /about.html
 ---
 
-I am an Associate Professor at the Institute of Automation, Chinese Academy of Sciences, Beijing, China. I have been working as a Research Associate at the Neuroscience of Language Lab (NelLLab) at NYU working with Prof. Liina Pylkkänen from 2021.11 to 2023.11. In June 2018, I received my PhD degree from the National Laboratory of Pattern Recognition (NLPR), Institute of Automation, Chinese Academy of Sciences (CASIA), supervised by Prof. Chengqing Zong. Before this, I received my BS degree from Northeastern University in June 2013.
+### **About Me**
 
-My research focuses on 1) combining insights of cognitive psychology to build better natural language understanding models. I am interested in how to represent the meaning of language symbols, such as words phrases, and sentences; How to make the language model learn as efficiently as people; How to evaluate the performance of a computational model; etc. 2) Applying computational linguistic methods in studying psycholinguistics and cognitive neuroscience researches. Currently, I use computational methods to study human language representation and sequence learning. I am interested in how humans represent and store semantic concepts; how humans combine words to form more complex meanings of sentences; How humans learn and generalize from few examples; etc.
+I am an **Associate Professor** at the **Institute of Automation**, Chinese Academy of Sciences (CAS), Beijing, China. From **November 2021 to November 2023**, I served as a **Research Associate** at the Neuroscience of Language Lab (NelLLab) at NYU, collaborating with **Prof. Liina Pylkkänen**. I completed my **PhD** in **June 2018** at the National Laboratory of Pattern Recognition (NLPR), CASIA, under the guidance of **Prof. Chengqing Zong**. My academic journey began with a **BS degree** from **Northeastern University** in **June 2013**.
+
+### **Research Interests**
+
+My research centers on two primary areas:
+
+1. **Natural Language Understanding**  
+   I aim to integrate psych and neuro linguistic insights into the development of more effective natural language understanding models. My interests lie in:
+   - Representing the meaning of linguistic symbols, including words, phrases, and sentences.
+   - Exploring how language models can learn as efficiently as humans.
+   - Evaluating the performance of computational models in language processing tasks.
+
+2. **Computational Linguistics in Psycholinguistics & Cognitive Neuroscience**  
+   I employ computational techniques to:
+   - Investigate human language representation and composition mechanisms.
+   - Understand how humans represent and store semantic concepts, combine words to form complex sentence meanings, and generalize from limited examples.
+   - Develop brain-computer interface systems.
+
+### ✨ **Latest News** ✨
+
+I am thrilled to announce that **Jixing** and I will be hosting a symposium at **SNL 2024** titled "[Modeling linguistic processes through experimental and naturalistic designs](https://www.neurolang.org/2024/symposia/?id=5)." 🌟 Our invited speakers include **Nai Ding, Yanchao Bi, Yohei Oseki, Ping Li, Alona Fyshe,** and **Jixing Li**. We will explore the benefits and challenges of using controlled versus naturalistic stimuli and discuss the potential of computational models to deepen our understanding of linguistic processes in the human brain. Don't miss out—see you in **Bristan** on **October 24**! 🎉
+
