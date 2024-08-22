@@ -8,25 +8,25 @@ redirect_from:
   - /about.html
 ---
 
-### **About Me**
+I am an **Associate Professor** at the **Institute of Automation**, Chinese Academy of Sciences (CAS), Beijing, China. From November 2021 to November 2023, I served as a Research Associate at the Neuroscience of Language Lab (NelLLab) at NYU, collaborating with **Prof. Liina Pylkkänen**. I completed my PhD in June 2018 at the National Laboratory of Pattern Recognition (NLPR), CASIA, under the guidance of **Prof. Chengqing Zong**. My academic journey began with a BS degree from Northeastern University in June 2013.
 
-I am an **Associate Professor** at the **Institute of Automation**, Chinese Academy of Sciences (CAS), Beijing, China. From **November 2021 to November 2023**, I served as a **Research Associate** at the Neuroscience of Language Lab (NelLLab) at NYU, collaborating with **Prof. Liina Pylkkänen**. I completed my **PhD** in **June 2018** at the National Laboratory of Pattern Recognition (NLPR), CASIA, under the guidance of **Prof. Chengqing Zong**. My academic journey began with a **BS degree** from **Northeastern University** in **June 2013**.
+---
 
 ### **Research Interests**
 
 My research centers on two primary areas:
 
-1. **Natural Language Understanding**  
-   I aim to integrate psych and neuro linguistic insights into the development of more effective natural language understanding models. My interests lie in:
+1. **Natural Language Understanding Inspired by Brain**  
    - Representing the meaning of linguistic symbols, including words, phrases, and sentences.
    - Exploring how language models can learn as efficiently as humans.
    - Evaluating the performance of computational models in language processing tasks.
 
-2. **Computational Linguistics in Psycholinguistics & Cognitive Neuroscience**  
-   I employ computational techniques to:
+2. **Computational Method in Psych and Neuro Linguistic Questions**  
    - Investigate human language representation and composition mechanisms.
    - Understand how humans represent and store semantic concepts, combine words to form complex sentence meanings, and generalize from limited examples.
    - Develop brain-computer interface systems.
+
+---
 
 ### ✨ **Latest News** ✨
 
