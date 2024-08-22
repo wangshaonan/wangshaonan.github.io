@@ -12,7 +12,7 @@ I am an **Associate Professor** at the **Institute of Automation**, Chinese Acad
 
 ---
 
-### **Research Interests**
+# **Research Interests**
 
 **Natural Language Understanding Inspired by the Brain**  
  - Representing the meaning of linguistic symbols, including words, phrases, and sentences.
@@ -26,7 +26,7 @@ I am an **Associate Professor** at the **Institute of Automation**, Chinese Acad
 
 ---
 
-### ✨ **Latest News** ✨
+# ✨ **Latest News** ✨
 
 I am thrilled to announce that **Jixing** and I will be hosting a symposium at **SNL 2024** titled "[Modeling linguistic processes through experimental and naturalistic designs](https://www.neurolang.org/2024/symposia/?id=5)." 🌟 Our invited speakers include **Nai Ding, Yanchao Bi, Yohei Oseki, Ping Li, Alona Fyshe,** and **Jixing Li**. We will explore the benefits and challenges of using controlled versus naturalistic stimuli and discuss the potential of computational models to deepen our understanding of linguistic processes in the human brain. Don't miss out—see you in **Bristan** on **October 24**! 🎉
 
