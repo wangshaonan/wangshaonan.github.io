@@ -45,6 +45,8 @@ You can find a full list of my articles and preprints on <ins>[my Google Scholar
 ### Peer-reviewed Conference Proceedings
 - Chong Li, Wen Yang, Jia jun Zhang, Jinliang Lu, **Shaonan Wang**, and Chengqing Zong."X-Instruction: Aligning Language Model in Low-resource Languages with Self-curated Cross-lingual Instructions." ACL-2024 Findings.
 
+- Yunhao Zhang, **Shaonan Wang**, Xinyi Dong, Jiajun Yu, and Chengqing Zong. Navigating Brain Language Representations: A Comparative Analysis of Neural Language Models and Psychologically Plausible Models. Cogsci 2024.
+
 - Chong Li,  **Shaonan Wang**, Jiajun Zhang, Chengqing Zong. Improving In-context Learning of Multilingual Generative Language Models with Cross-lingual Alignment. NAACL-2024.
 
 - Xinpei Zhao, Jingyuan Sun, **Shaonan Wang**, Jing Ye, Xiaohan Zhang, Chengqing Zong. MapGuide: A Simple yet Effective Method to Reconstruct Continuous Language from Brain Activities. NAACL-2024.
