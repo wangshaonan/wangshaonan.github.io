@@ -46,7 +46,9 @@ You can find a full list of my articles and preprints on <ins>[my Google Scholar
 - **王少楠**，宗成庆. 一种基于双通道LDA模型的汉语词义表示与归纳方法. 计算机学报，2016年8月，第39卷，第8期，第1652-1666页.
   
 ### Peer-reviewed Conference Proceedings
-- Chong Li, Wen Yang, Jia jun Zhang, Jinliang Lu, **Shaonan Wang**, and Chengqing Zong."X-Instruction: Aligning Language Model in Low-resource Languages with Self-curated Cross-lingual Instructions." ACL-2024 Findings.
+- **Shaonan Wang**. How Do Transformers Integrate Meanings? An Investigation Using Interpretable Brain-Based Componential Semantics in Two-Word Phrases. IJCAI-HBAI workshop 2024.
+
+- Chong Li, Wen Yang, Jia jun Zhang, Jinliang Lu, **Shaonan Wang**, and Chengqing Zong.X-Instruction: Aligning Language Model in Low-resource Languages with Self-curated Cross-lingual Instructions. ACL-2024 Findings.
 
 - Yunhao Zhang, **Shaonan Wang**, Xinyi Dong, Jiajun Yu, and Chengqing Zong. Navigating Brain Language Representations: A Comparative Analysis of Neural Language Models and Psychologically Plausible Models. Cogsci 2024.
 
