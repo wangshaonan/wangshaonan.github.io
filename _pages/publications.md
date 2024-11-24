@@ -12,6 +12,9 @@ You can find a full list of my articles and preprints on <ins>[my Google Scholar
 - Jixing Li, **Shaonan Wang**, Wen-Ming Luh, Liina Pylkkänen, Yiming Yang, and John Hale. "Cortical processing of reference in language revealed by computational models." BioRxiv (2020): 2020-11.
 
 ### Peer-reviewed Journal Articles
+
+- **Shaonan Wang**, Songhee Kim, Jeffrey R.Binder, Liina Pylkkanen. Unlocking the complexity of phrasal composition: An interplay between semantic features and linguistic relations. Cognition 254 (2025).
+
 - Nan Lin, Xiaohan Zhang, Xiuyi Wang, and **Shaonan Wang**. The organization of the semantic network as reflected by the neural correlates of six semantic dimensions. Brain and Language 250 (2024): 105388.
   
 - Yupeng Li, Haorui He, **Shaonan Wang**, Francis CMLau, and Yunya Song."Improved target-specific stance detection on social media platforms by delving into conversation threads." IEEE Transactions on Computational Social Systems (2023).
