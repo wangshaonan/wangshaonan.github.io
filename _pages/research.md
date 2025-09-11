@@ -36,6 +36,15 @@ author_profile: true
 </style>
 
 <div class="project-box">
+    <img src="https://raw.githubusercontent.com/wangshaonan/wangshaonan.github.io/master/research/moe.png" alt="Project Image">
+    <div class="content">
+        <h3>AI applications in healthcare and education</h3>
+        <p> Leveraging artificial intelligence as a foundational model to both understand and augment human cognition. A key direction involves using the striking alignment between large language models and the human brain to create computational analogues of neurological function and dysfunction. For instance, in one line of work, we lesion modular AI systems to simulate and study language disorders like aphasia, then explore rehabilitation by retraining the model's healthy components—effectively using AI as a virtual testbed for developing novel therapeutic interventions. This approach exemplifies my broader mission to move beyond pure simulation and use AI as a transformative tool for building next-generation solutions in healthcare, such as advanced brain-computer interfaces for communication, and in education, through personalized cognitive tools and language learning systems. </p>
+    </div>
+</div>
+
+
+<div class="project-box">
     <img src="https://raw.githubusercontent.com/wangshaonan/wangshaonan.github.io/master/research/neuralde.png" alt="Project Image">
     <div class="content">
         <h3>Toward coherent text generation from brain activations</h3>
