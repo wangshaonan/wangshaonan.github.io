@@ -11,7 +11,14 @@ You can find a full list of my articles and preprints on <ins>[my Google Scholar
 
 - Jixing Li, **Shaonan Wang**, Wen-Ming Luh, Liina Pylkkänen, Yiming Yang, and John Hale. "Cortical processing of reference in language revealed by computational models." BioRxiv (2020): 2020-11.
 
+- Chunyu Ye, Yunhao Zhang, Jingyuan Sun, Chong Li, Chengqing Zong, **Shaonan Wang**. Decoding the Multimodal Mind: Generalizable Brain-to-Text Translation via Multimodal Alignment and Adaptive Routing.
+
+- Yifan Wang, Jingyuan Sun, Jichen Zheng, Yunhao Zhang, Chunyu Ye, Jixing Li, Chengqing Zong, **Shaonan Wang**. Bridging Brains and Models: MoE-Based Functional Lesions for Simulating and Rehabilitating Aphasia.
+
 ### Peer-reviewed Journal Articles
+- Yunhao Zhangg, **Shaonan Wang**, Nan Lin, Lingzhong Fan, Chengqing Zong. A simple clustering approach to map the human brain's cortical semantic network organization during task. Neuroimage 2025.
+
+- Yunhao Zhang, Xiaohan Zhang, Chong Li, **Shaonan Wang**, Chengqing Zong. MulCogBench: A Multi-modal Cognitive Benchmark Dataset for Evaluating Chinese and English Computational Language Models. Language Resources and Evaluation 2025.
 
 - **Shaonan Wang**, Songhee Kim, Jeffrey R.Binder, Liina Pylkkanen. Unlocking the complexity of phrasal composition: An interplay between semantic features and linguistic relations. Cognition 254 (2025).
 
@@ -46,9 +53,13 @@ You can find a full list of my articles and preprints on <ins>[my Google Scholar
 - **王少楠**，宗成庆. 一种基于双通道LDA模型的汉语词义表示与归纳方法. 计算机学报，2016年8月，第39卷，第8期，第1652-1666页.
   
 ### Peer-reviewed Conference Proceedings
+
+- Yunhao Zhang, **Shaonan Wang**, Nan Lin, Xinyi Dong, Chong Li, Chengqing Zong. Discovering Semantic Subdimensions through Disentangled Conceptual
+Representations. EMNLP-findings 2025.
+  
 - **Shaonan Wang**. How Do Transformers Integrate Meanings? An Investigation Using Interpretable Brain-Based Componential Semantics in Two-Word Phrases. IJCAI-HBAI workshop 2024.
 
-- Chong Li, Wen Yang, Jia jun Zhang, Jinliang Lu, **Shaonan Wang**, and Chengqing Zong.X-Instruction: Aligning Language Model in Low-resource Languages with Self-curated Cross-lingual Instructions. ACL-2024 Findings.
+- Chong Li, Wen Yang, Jia jun Zhang, Jinliang Lu, **Shaonan Wang**, and Chengqing Zong. X-Instruction: Aligning Language Model in Low-resource Languages with Self-curated Cross-lingual Instructions. ACL-2024 Findings.
 
 - Yunhao Zhang, **Shaonan Wang**, Xinyi Dong, Jiajun Yu, and Chengqing Zong. Navigating Brain Language Representations: A Comparative Analysis of Neural Language Models and Psychologically Plausible Models. Cogsci 2024.
 
