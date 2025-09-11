@@ -25,10 +25,23 @@ My research sits at the intersection of artificial intelligence, neuroscience, a
  - Developing methods for alignment between AI models and human cognitive processes.
  - Studying intelligence emergence and developmental biomarkers through computational models.
 
-**Computational Method in Psych and Neuro Linguistic Questions**  
- - Investigate human language representation and composition mechanisms.
- - Understand how humans represent and store semantic concepts, combine words to form complex sentence meanings, and generalize from limited examples.
- - Develop brain-computer interface systems.
+**Brain-Computer Interface (BCI)**
+ - Designing cutting-edge, multimodal brain-computer interfaces.
+ - Advancing robust BCI systems for real-world applications ("BCI in the wild").
+ - Exploring novel BCI applications in communication and healthcare.
+
+**AI Applications in Education and Healthcare**
+ - Developing AI tools for language learning and support for developmental disorders.
+ - Creating assistive technologies for aging populations and aphasia rehabilitation.
+ - Building emotionally intelligent chatbots and brain simulation models.
+
+**Computational Language Science**
+ - Enhancing the interpretability and robustness of large language models (LLMs).
+ - Creating standardized benchmarks and testing materials for evaluating AI in linguistic tasks.
+
+**Speech Processing**
+ - Building automatic speech recognition (ASR) systems for children and low-resource languages.
+ - Solving challenging auditory scenes, such as the cocktail party problem.
 
 ---
 
