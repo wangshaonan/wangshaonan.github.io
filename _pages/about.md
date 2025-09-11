@@ -18,10 +18,12 @@ Prior to joining PolyU, I was an Associate Professor at **the Institute of Autom
 
 # **Research Interests**
 
-**Natural Language Understanding Inspired by the Brain**  
- - Representing the meaning of linguistic symbols, including words, phrases, and sentences.
- - Exploring how language models can learn as efficiently as humans.
- - Evaluating the performance of computational models in language processing tasks.
+My research sits at the intersection of artificial intelligence, neuroscience, and linguistics. I am passionate about building bridges between human and machine intelligence.
+
+**AI for Neuroscience: Aligning Generative AI with Human Cognition**  
+ - Investigating the neural mechanisms of language representation and composition in the human brain.
+ - Developing methods for alignment between AI models and human cognitive processes.
+ - Studying intelligence emergence and developmental biomarkers through computational models.
 
 **Computational Method in Psych and Neuro Linguistic Questions**  
  - Investigate human language representation and composition mechanisms.
