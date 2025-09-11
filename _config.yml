@@ -6,11 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "China"
+locale                   : "HongKong"
 title                    : "Shaonan Wang"
 title_separator          : "-"
 name                     : &name "Shaonan Wang"
-description              : &description "Associate Researcher at CASIA"
+description              : &description "Assistant Professor at PolyU"
 url                      : https://wangshaonan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "wangshaonan.github.io"
@@ -81,8 +81,8 @@ analytics:
 author:
   name             : "Shaonan Wang"
   avatar           : "profile.png"
-  bio              : "Associate Researcher at CASIA, expert in Natural Language Understanding."
-  location         : "Beijing, China"
+  bio              : "Assistant Professor at PolyU, expert in Natural Language Understanding."
+  location         : "Hong Kong"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=4UJtgKsAAAAJ"
   email            :
