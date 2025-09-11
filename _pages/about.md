@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am an **Associate Professor** at the **Institute of Automation**, Chinese Academy of Sciences (CAS), Beijing, China. From November 2021 to November 2023, I served as a Research Associate at the Neuroscience of Language Lab (NelLLab) at NYU, collaborating with **Prof. Liina Pylkkänen**. I completed my PhD in June 2018 at the National Laboratory of Pattern Recognition (NLPR), CASIA, under the guidance of **Prof. Chengqing Zong**. My academic journey began with a BS degree from Northeastern University in June 2013.
+I am thrilled to have joined **The Hong Kong Polytechnic University** as a new Principal Investigator and Assistant Professor.
+
+Why the move? Life is an experience, and I believe enthusiasm is our best guide. Among life's many choices, I always choose the one that follows my heart.
+
+Prior to joining PolyU, I was an Associate Professor at **the Institute of Automation, Chinese Academy of Sciences (CAS)** in Beijing, China. From November 2021 to November 2023, I served as a Research Associate at the Neuroscience of Language Lab (NelLLab) at **New York University**, collaborating with Prof. Liina Pylkkänen. (I loved my time in New York!). I completed my Ph.D. in June 2018 at the National Laboratory of Pattern Recognition (NLPR), CASIA, under the supervision of Prof. Chengqing Zong. My academic journey began with a B.S. degree from Northeastern University in June 2013.
 
 ---
 
