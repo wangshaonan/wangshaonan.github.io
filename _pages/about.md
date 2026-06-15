@@ -21,11 +21,6 @@ My research lies at the intersection of artificial intelligence, neuroscience, a
  - Developing methods for alignment between AI models and human cognitive processes.
  - Studying intelligence emergence and developmental biomarkers through computational models.
 
-**Brain-Computer Interface (BCI)**
- - Designing cutting-edge, multimodal brain-computer interfaces.
- - Advancing robust BCI systems for real-world applications ("BCI in the wild").
- - Exploring novel BCI applications in communication and healthcare.
-
 **AI Applications in Education and Healthcare**
  - Developing AI tools for language learning and education.
  - Studying how different types of AI models affect students’ learning and cognition.
@@ -35,6 +30,11 @@ My research lies at the intersection of artificial intelligence, neuroscience, a
  - Enhancing the interpretability and robustness of large language models (LLMs).
  - Creating standardized benchmarks and testing materials for evaluating AI in linguistic tasks.
  - Simulating language acquisition using multimodal language models trained from scratch.
+
+**Brain-Computer Interface (BCI)**
+ - Designing cutting-edge, multimodal brain-computer interfaces.
+ - Advancing robust BCI systems for real-world applications ("BCI in the wild").
+ - Exploring novel BCI applications in communication and healthcare.
 
 ---
 
