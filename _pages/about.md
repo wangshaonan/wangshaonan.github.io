@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Principal Investigator and Assistant Professor at **The Hong Kong Polytechnic University (PolyU)**. Previously, I was an Associate Professor at the Institute of Automation, Chinese Academy of Sciences (CAS) in Beijing. From November 2021 to November 2023, I served as a Research Associate in the **Neuroscience of Language Lab (NeLLab) at New York University**, collaborating with Prof. Liina Pylkkänen. (I love New York!!!). I received my Ph.D. in June 2018 from **the National Laboratory of Pattern Recognition (NLPR), CASIA**, under the supervision of Prof. Chengqing Zong, and my B.S. from Northeastern University in June 2013.
+I am a Principal Investigator and Assistant Professor at **The Hong Kong Polytechnic University (PolyU)**. Check out the [LINCLab](https://wangshaonan.github.io/LINCLab/). Previously, I was an Associate Professor at the Institute of Automation, Chinese Academy of Sciences (CAS) in Beijing. From November 2021 to November 2023, I served as a Research Associate in the **Neuroscience of Language Lab (NeLLab) at New York University**, collaborating with Prof. Liina Pylkkänen. (I love New York!!!). I received my Ph.D. in June 2018 from **the National Laboratory of Pattern Recognition (NLPR), CASIA**, under the supervision of Prof. Chengqing Zong, and my B.S. from Northeastern University in June 2013.
 
 ---
 
